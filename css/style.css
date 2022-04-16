@@ -1,0 +1,15 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.bank {
+    color: #06763b;
+}
+
+.accounting {
+    background-color: rgb(238, 237, 237);
+}
+
+.input-field {
+    background-color: rgb(195, 195, 195);
+}
