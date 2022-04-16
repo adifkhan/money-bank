@@ -28,7 +28,7 @@ function calculation() {
         document.getElementById('balace').innerText = balance;
     }
     else {
-        document.getElementById('error-msg').innerText = "Opps! You Don't Have Enough Income.";
+        document.getElementById('error-msg').innerText = "Sorry! You Don't Have Enough Income.";
     }
 
 }
